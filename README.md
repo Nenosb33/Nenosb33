@@ -49,8 +49,7 @@ data, programming and digital design.
 
 <td width="42%" align="center">
 
-<img src="./decoration1 (4).jpeg" width="280">
-
+<img src="./decoration1 (4).gif" width="300">
 <br><br>
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
