@@ -22,7 +22,6 @@
 ║        > ACCESS GRANTED                  ║
 ║        > USER FOUND                     ║
 ╚══════════════════════════════════════════╝
-</div>
 ┌──[ NENOSB33@github ]─[~]
 │
 ├── $ whoami
@@ -39,3 +38,4 @@
 │
 └── $ status
     [ ONLINE ] ████████████████████ 100%
+</div>
