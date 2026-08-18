@@ -57,7 +57,7 @@
 </td>
 
 <td width="35%" align="center">
-<img src="./image-03.gif" width="260">
+<img src="./decoration1 (4).jpeg" width="260">
 </td>
 </tr>
 </table>
@@ -83,7 +83,7 @@ data analysis, and digital design.
 <table>
 <tr>
 <td width="35%" align="center">
-<img src="./image-04.gif" width="260">
+<img src="./decoration1 (2).jpeg" width="260">
 </td>
 
 <td width="65%" valign="middle">
@@ -128,7 +128,6 @@ data analysis, and digital design.
 `📡 IoT` &nbsp; `☁️ Cloud`  
 `🎨 UI / Web Design` &nbsp; `📊 Data Analysis`  
 `♟️ Chess` &nbsp; `🎮 Call of Duty`
-
 </div>
 
 <br>
@@ -158,7 +157,7 @@ SOFTWARE DEVELOPMENT
 </td>
 
 <td width="35%" align="center">
-<img src="./image-05.gif" width="260">
+<img src="./1045538869772513140.gif" width="260">
 </td>
 </tr>
 </table>
@@ -168,7 +167,7 @@ SOFTWARE DEVELOPMENT
 <table>
 <tr>
 <td width="35%" align="center">
-<img src="./image-06.gif" width="260">
+<img src="./1077838123325940889.jpeg" width="260">
 </td>
 
 <td width="65%" valign="middle">
@@ -203,8 +202,8 @@ SOFTWARE DEVELOPMENT
 
 ♟️ <b>CHESS</b>  
 Strategy • Patience • Calculation
-
 <br><br>
+<img src="./character3.jpg.gif" width="260">
 
 🎮 <b>CALL OF DUTY</b>  
 Focus • Reaction • Teamwork
@@ -235,14 +234,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenosb33&lay
 <br><br>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Nenosb33&theme=dark&hide_border=true&background=0D0D0D&ring=FF2B2B&fire=FF2B2B&currStreakLabel=FF2B2B">
+src="WhatsApp Image 2026-01-06 at 11">
 
 </div>
 
 </td>
 
 <td width="35%" align="center">
-<img src="./image-07.gif" width="260">
+<img src="./by Anas Abdin.gif" width="260">
 </td>
 </tr>
 </table>
@@ -264,7 +263,7 @@ width="95%">
 <table>
 <tr>
 <td width="35%" align="center">
-<img src="./image-08.gif" width="260">
+<img src="./decoration1 (2).jpeg" width="260">
 </td>
 
 <td width="65%" valign="middle">
