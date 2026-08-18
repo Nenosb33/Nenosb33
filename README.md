@@ -22,15 +22,24 @@
 <br><br>
 
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [!] SYSTEM STATUS                                           │
-│                                                              │
-│  USER       :: NENOSB33                                      │
-│  STATUS     :: ONLINE                                        │
-│  ACCESS     :: GRANTED                                       │
-│  MODE       :: LEARNING                                      │
-│  FOCUS      :: CYBERSECURITY + DATA + DESIGN                 │
-│                                                              │
+      
+  [!] SYSTEM STATUS                                             
+                                                              
+                                                                                                                          
+  USER       :: NENOSB33  
+
+  
+ STATUS     :: ONLINE            
+
+                                                             
+ ACCESS     :: GRANTED    
+
+                                                              
+ MODE       :: LEARNING  
+                      
+                                                           
+ FOCUS      :: CYBERSECURITY + DATA + DESIGN                 
+                                                           
 └──────────────────────────────────────────────────────────────┘
 
 </div>
