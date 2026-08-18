@@ -1,47 +1,24 @@
-<h1 align="center">RETAJ ♡</h1>
+<div align="center">
 
-<p align="center">
-  🌟 Welcome to my GitHub profile 🌟
-</p>
+# 🥂 Born to win
 
----
+### `Ease your body with work and don't tire it with rest.`
 
-## ♡ Hello and Welcome Strangers
+<br>
 
-<img align="right" width="300" src="YOUR_IMAGE_HERE">
+<img src="YOUR_MAIN_IMAGE_HERE" width="420">
 
-Hi! I'm RETAJ ♡
+<br><br>
 
-I'm interested in technology, coding and learning new things.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF2B2B&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE...;%3E+WELCOME+TO+NENOSB33;%3E+COMPUTER+INFORMATION+SYSTEMS;%3E+CYBERSECURITY+%7C+DATA+%7C+CODE;%3E+ACCESS+GRANTED_)](https://git.io/typing-svg)
 
----
+<br>
 
-## ♡ What am I interested in?
-
-- ✨ Internet of Things
-- ✨ Embedded Systems
-- ✨ Cloud Computing
-
----
-
-## ♡ Tech
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,aws,gcp,arduino,raspberrypi" />
-</p>
-
----
-
-<p align="center">
-  <img src="YOUR_GIF_OR_IMAGE_HERE" width="300">
-</p>
-
-<p align="center">
-  🎮 I love playing video games, watching TV shows and movies ♡
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
-</p>
+```text
+╔══════════════════════════════════════════╗
+║              NENOSB33                    ║
+║                                          ║
+║        > INITIALIZING SYSTEM...         ║
+║        > ACCESS GRANTED                  ║
+║        > USER FOUND                     ║
+╚══════════════════════════════════════════╝
