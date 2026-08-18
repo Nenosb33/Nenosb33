@@ -1,294 +1,479 @@
-<html>
-<div align="center">
-    
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    RTJ // SYSTEM                            -->
+<!--                         WHO AM I(o゜▽゜)o☆                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->(o゜▽゜)o☆
+<!--                     // IDENTITY //                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <br>
 
-<img src="./born-to-win.png" width="500">
-
-### `Ease your body with work and don't tire it with rest.`
-
-<br>
-
-<br><img src="mrrobot.gif.jpeg" width="430">
-
-<br><br>
-
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=FF2B2B&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+NENOSB33...;%3E+COMPUTER+INFORMATION+SYSTEMS;%3E+CYBERSECURITY+%7C+DATA+%7C+CODE;%3E+SYSTEMS+%26+NETWORKS;%3E+DESIGN.+BUILD.+BREAK.+REBUILD.;%3E+ACCESS+GRANTED_" alt="Typing SVG" /> </a>
-
-<br><br>
+<h2>╔═══ WHO AM I ═══╗</h2>
 
 <br>
 
 <table>
 <tr>
-<td width="65%" valign="middle">
 
-<h2>WHO AM I</h2>
+<td width="58%" valign="middle">
 
-<pre>
-┌──[ NENOSB33@github ]─[~]
-│
-├── $ whoami
-│
-│   Computer Information Systems Student
-│
-├── $ interests
-│
-│   Cybersecurity
-│   Data Analysis
-│   Systems & Networks
-│   Programming
-│   UI / Web Design
-│
-├── $ mission
-│
-│   Become professional in cybersecurity,
-│   data analysis and digital design.
-│
-└── $ status
+<h3>✦ NENOSB33 // PROFILE</h3>
 
-    [ ONLINE ] ████████████████████ 100%
-</pre>
+<code>ACCESSING USER PROFILE...</code>
+
+<br><br>
+
+<b>Computer Information Systems Student</b>
+
+<br><br>
+
+I'm fascinated by the way technology works —
+from networks and systems to cybersecurity,
+data, programming and digital design.
+
+<br><br>
+
+✦ <b>CYBERSECURITY</b><br>
+✦ <b>DATA ANALYSIS</b><br>
+✦ <b>SYSTEMS & NETWORKS</b><br>
+✦ <b>PROGRAMMING</b><br>
+✦ <b>UI / WEB DESIGN</b>
+
+<br><br>
+
+<code>STATUS :: ONLINE</code>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+<code>ACCESS :: GRANTED</code>
 
 </td>
 
-<td width="35%" align="center">
-<img src="./decoration1 (4).jpeg" width="260">
+<td width="42%" align="center">
+
+<img src="./decoration1 (4).jpeg" width="280">
+
+<br><br>
+
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
+
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<div align="center">
-
-### `BUILDING MY OWN SYSTEM`
-
-I'm interested in understanding how technology works —  
-from systems and networks to programming, cybersecurity,  
-data analysis, and digital design.
+<p align="center">
+✦ ────────── ◈ ────────── ✦
+</p>
 
 <br>
 
-`LEARN` • `ANALYZE` • `CREATE` • `EXPERIMENT` • `IMPROVE`
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    // SYSTEM MINDSET //                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>⌁ BUILDING MY OWN SYSTEM ⌁</h2>
 
 <br>
 
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="./decoration1 (2).jpeg" width="260">
-</td>
-
-<td width="65%" valign="middle">
-
-<h2>TECH STACK</h2>
-
-<b>PROGRAMMING</b>
+<img src="./decoration1 (2).jpeg" width="320">
 
 <br><br>
+
+<code>LEARN</code>
+&nbsp; ✦ &nbsp;
+<code>ANALYZE</code>
+&nbsp; ✦ &nbsp;
+<code>CREATE</code>
+
+<br><br>
+
+<code>EXPERIMENT</code>
+&nbsp; ✦ &nbsp;
+<code>BREAK</code>
+&nbsp; ✦ &nbsp;
+<code>REBUILD</code>
+
+<br><br>
+
+<blockquote>
+Understanding technology is not enough.<br>
+I want to understand <b>why</b> it works.
+</blockquote>
+
+<br>
+
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      // TECH STACK //                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>◈ TECH STACK ◈</h2>
+
+<br>
+
+<h3>PROGRAMMING</h3>
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css">
 
 <br><br>
 
-<b>DATA / DATABASE</b>
-
-<br><br>
+<h3>DATA / DATABASE</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql">
 
 <br><br>
 
-<b>SYSTEMS / CLOUD / HARDWARE</b>
-
-<br><br>
+<h3>SYSTEMS / CLOUD / HARDWARE</h3>
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,aws,gcp,arduino,raspberrypi">
 
-</td>
-</tr>
-</table>
+<br><br>
 
-<br>
+<img src="./1045538869772513140.gif" width="300">
 
-<div align="center">
+<br><br>
 
-<h2>INTERESTS</h2>
+<code>[ STACK INITIALIZED ]</code>
 
-`🔐 Cybersecurity` &nbsp; `🕵️ Ethical Hacking`  
-`🎯 CTF` &nbsp; `🌐 Networks`  
-`💻 Programming` &nbsp; `🤖 AI`  
-`📡 IoT` &nbsp; `☁️ Cloud`  
-`🎨 UI / Web Design` &nbsp; `📊 Data Analysis`  
-`♟️ Chess` &nbsp; `🎮 Call of Duty`
-</div>
+<br><br>
+
+<p align="center">
+✦ ──────── ◈ ──────── ✦
+</p>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       // INTERESTS //                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>✦ INTERESTS ✦</h2>
 
 <br>
 
 <table>
 <tr>
-<td width="65%" valign="middle">
 
-<h2>CURRENTLY LEARNING</h2>
+<td align="center">
+
+🔐<br>
+<b>CYBERSECURITY</b>
+
+</td>
+
+<td align="center">
+
+🕵️<br>
+<b>ETHICAL HACKING</b>
+
+</td>
+
+<td align="center">
+
+🌐<br>
+<b>NETWORKS</b>
+
+</td>
+
+<td align="center">
+
+🤖<br>
+<b>AI</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+💻<br>
+<b>PROGRAMMING</b>
+
+</td>
+
+<td align="center">
+
+📊<br>
+<b>DATA</b>
+
+</td>
+
+<td align="center">
+
+📡<br>
+<b>IoT</b>
+
+</td>
+
+<td align="center">
+
+☁️<br>
+<b>CLOUD</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🎨<br>
+<b>UI / WEB</b>
+
+</td>
+
+<td align="center">
+
+🎯<br>
+<b>CTF</b>
+
+</td>
+
+<td align="center">
+
+♟️<br>
+<b>CHESS</b>
+
+</td>
+
+<td align="center">
+
+🎮<br>
+<b>CALL OF DUTY</b>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  // LEARNING PROTOCOL //                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>⌁ CURRENTLY LEARNING ⌁</h2>
+
+<br>
+
+<img src="./1077838123325940889.jpeg" width="300">
+
+<br><br>
+
+<code>CYBERSECURITY</code>
+&nbsp; ◈ &nbsp;
+<code>DATA ANALYSIS</code>
+
+<br><br>
+
+<code>NETWORKS</code>
+&nbsp; ◈ &nbsp;
+<code>PROGRAMMING</code>
+
+<br><br>
+
+<code>WEB DEVELOPMENT</code>
+&nbsp; ◈ &nbsp;
+<code>UI / UX</code>
+
+<br><br>
+
+<code>SOFTWARE DEVELOPMENT</code>
+
+<br><br>
 
 <pre>
 [ LEARNING PROTOCOL ]
 
-██████████████████░░░░░░░░░░░░░░░░░░
+████████████████████░░░░░░░░░░
 
-CYBERSECURITY
-DATA ANALYSIS
-NETWORKS
-PROGRAMMING
-WEB DEVELOPMENT
-UI / UX DESIGN
-SOFTWARE DEVELOPMENT
-
-> STATUS: IN PROGRESS_
+STATUS :: IN PROGRESS_
 </pre>
-
-</td>
-
-<td width="35%" align="center">
-<img src="./1045538869772513140.gif" width="260">
-</td>
-</tr>
-</table>
 
 <br>
 
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="./1077838123325940889.jpeg" width="260">
-</td>
+<p align="center">
+✦ ────────── ◈ ────────── ✦
+</p>
 
-<td width="65%" valign="middle">
 
-<h2>PROJECTS</h2>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     // PROJECTS //                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<pre>
-┌──────────────────────────────────────┐
-│       PROJECT DATABASE               │
-├──────────────────────────────────────┤
-│                                      │
-│  > SCANNING REPOSITORIES...          │
-│                                      │
-│  [!] PROJECTS IN DEVELOPMENT         │
-│                                      │
-│  > NEW PROJECTS ARE BEING BUILT...   │
-│                                      │
-│  STATUS :: WORK IN PROGRESS          │
-│                                      │
-└──────────────────────────────────────┘
-</pre>
-
-</td>
-</tr>
-</table>
+<h2>◈ PROJECTS ◈</h2>
 
 <br>
 
-<div align="center">
+<img src="./character3.jpg.gif" width="320">
 
-<h2>GAMING</h2>
-
-♟️ <b>CHESS</b>  
-Strategy • Patience • Calculation
 <br><br>
-<img src="./character3.jpg.gif" width="260">
 
-🎮 <b>CALL OF DUTY</b>  
+<h3>PROJECT DATABASE</h3>
+
+<code>SCANNING REPOSITORIES...</code>
+
+<br><br>
+
+✦ <b>PROJECTS IN DEVELOPMENT</b>
+
+<br><br>
+
+<code>NEW PROJECTS ARE BEING BUILT...</code>
+
+<br><br>
+
+<code>STATUS :: WORK IN PROGRESS</code>
+
+<br><br>
+
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       // GAMING //                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>♟ GAMING // 🎮</h2>
+
+<br>
+
+<img src="./by Anas Abdin.gif" width="300">
+
+<br><br>
+
+<b>♟ CHESS</b>
+
+<br>
+
+Strategy • Patience • Calculation
+
+<br><br>
+
+<b>🎮 CALL OF DUTY</b>
+
+<br>
+
 Focus • Reaction • Teamwork
 
 <br><br>
 
-`GAME MODE: ONLINE`  
-`PLAYER STATUS: READY_`
+<code>GAME MODE :: ONLINE</code>
 
-</div>
+&nbsp;&nbsp;
+
+<code>PLAYER :: READY_</code>
+
+<br><br>
+
+✦ ─────────────── ✦
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    // GITHUB STATS //                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>◈ GITHUB STATS ◈</h2>
 
 <br>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+<img
+src="https://github-readme-stats.vercel.app/api?username=Nenosb33&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FF2B2B&icon_color=FF2B2B&text_color=B3B3B3"
+height="180">
 
-<h2>GITHUB STATS</h2>
+&nbsp;&nbsp;
 
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Nenosb33&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FF2B2B&icon_color=FF2B2B&text_color=B3B3B3">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenosb33&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FF2B2B&text_color=B3B3B3">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenosb33&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FF2B2B&text_color=B3B3B3"
+height="180">
 
 <br><br>
 
 <img
-src="WhatsApp Image 2026-01-06 at 11">
+src="https://github-readme-streak-stats.herokuapp.com/?user=Nenosb33&theme=dark&background=0D0D0D&border=0D0D0D&ring=FF2B2B&fire=FF2B2B&currStreakLabel=FF2B2B"
+height="180">
 
-</div>
+<br><br>
 
-</td>
+✦ ✧ ✦ ✧ ✦
 
-<td width="35%" align="center">
-<img src="./by Anas Abdin.gif" width="260">
-</td>
-</tr>
-</table>
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       // ACTIVITY //                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>✦ ACTIVITY ✦</h2>
 
 <br>
-
-<div align="center">
-
-<h2>ACTIVITY</h2>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Nenosb33&bg_color=0D0D0D&color=B3B3B3&line=FF2B2B&point=FFFFFF&area=true&hide_border=true"
 width="95%">
 
-</div>
+<br><br>
+
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  // CONTRIBUTION //                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>⌁ CONTRIBUTION PROTOCOL ⌁</h2>
 
 <br>
 
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="./decoration1 (2).jpeg" width="260">
-</td>
+<img src="./decoration1 (2).jpeg" width="300">
 
-<td width="65%" valign="middle">
+<br><br>
 
-<h2>CONTRIBUTION PROTOCOL</h2>
+<code>INITIALIZING CONTRIBUTION SCAN...</code>
 
-<pre>
-> INITIALIZING CONTRIBUTION SCAN...
+<br><br>
 
-> MAPPING ACTIVITY...
+✦ MAPPING ACTIVITY ✦
 
-> GENERATING SNAKE...
+<br><br>
 
-[ CONTRIBUTION SYSTEM // LOADING... ]
-</pre>
+✧ GENERATING CONTRIBUTION DATA ✧
 
-</td>
-</tr>
-</table>
+<br><br>
+
+<code>[ CONTRIBUTION SYSTEM // ONLINE ]</code>
+
+<br><br>
+
+✦ ────────── ◈ ────────── ✦
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       // CONNECT //                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>✦ CONNECT ✦</h2>
 
 <br>
-
-<div align="center">
-
-<h2>CONNECT</h2>
 
 <a href="https://github.com/Nenosb33">
 <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF">
@@ -316,18 +501,18 @@ width="95%">
 
 <br><br>
 
+✦･ﾟﾟ･*:｡..｡:*ﾟ:*:✼✿
+
+<br><br>
+
 <pre>
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                  CONNECTION TERMINATED_                      ║
-║                                                              ║
-║                    "BORN TO WIN"                             ║
-║                                                              ║
-║      Ease your body with work and don't tire it with rest.   ║
-║                                                              ║
-║                  SEE YOU ON THE OTHER SIDE.                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+CONNECTION TERMINATED_
+
+"BORN TO WIN"
+
+Ease your body with work and don't tire it with rest.
+
+SEE YOU ON THE OTHER SIDE.
 
 [ SYSTEM OFFLINE ]
 </pre>
