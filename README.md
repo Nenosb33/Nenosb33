@@ -22,3 +22,20 @@
 ║        > ACCESS GRANTED                  ║
 ║        > USER FOUND                     ║
 ╚══════════════════════════════════════════╝
+</div>
+┌──[ NENOSB33@github ]─[~]
+│
+├── $ whoami
+│   Computer Information Systems Student
+│
+├── $ focus
+│   Cybersecurity • Data Analysis
+│   Systems • Networks • Programming
+│   UI/UX • Web Design • Software Design
+│
+├── $ mission
+│   Become professional in cybersecurity,
+│   data analysis, and digital design.
+│
+└── $ status
+    [ ONLINE ] ████████████████████ 100%
