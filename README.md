@@ -99,7 +99,7 @@ I want to understand <b>why</b> it works.
 
 <br>
 
-<img src="./1045538869772513140.gif" width="420">
+  <img src="./1045538869772513140.gif" width="800">
 
 <br><br>
 
