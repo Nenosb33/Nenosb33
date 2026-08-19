@@ -142,6 +142,8 @@ I want to understand <b>why</b> it works.
 
 <h2>✦ INTERESTS ✦</h2>
 
+<div align="center">
+
 <br>
 
 🔐 <b>CYBERSECURITY</b>
@@ -181,7 +183,7 @@ I want to understand <b>why</b> it works.
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
 
 <br><br>
-
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  // LEARNING PROTOCOL //                    -->
