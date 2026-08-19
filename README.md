@@ -44,6 +44,8 @@ data, programming and digital design.
 
 <br><br>
 
+<div align="center">
+
 <code>STATUS :: ONLINE</code>
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
 <code>ACCESS :: GRANTED</code>
@@ -53,7 +55,7 @@ data, programming and digital design.
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
 
 <br><br>
-
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    // SYSTEM MINDSET //                     -->
