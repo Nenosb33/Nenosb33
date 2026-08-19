@@ -1,7 +1,9 @@
-<h2>╔═══ WHO AM I ═══╗</h2>
+<h3>✦ NENOSB33 // PROFILE✦</h3>
 
+<h4>✦✦ RTJ IS✦✦</h4>
 
-<h2>✦ NENOSB33 // PROFILE ✦</h2>
+</div>
+
 
 <br>
 
@@ -103,6 +105,9 @@ I want to understand <b>why</b> it works.
 
 <br><br>
 
+<div align="center">
+
+
 <h3>PROGRAMMING</h3>
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css">
@@ -128,7 +133,7 @@ I want to understand <b>why</b> it works.
 ✦ ──────── ◈ ──────── ✦
 
 <br><br>
-
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       // INTERESTS //                       -->
@@ -205,6 +210,8 @@ I want to understand <b>why</b> it works.
 &nbsp; ◈ &nbsp;
 <code>UI / UX</code>
 
+<div align="center">
+  
 <br><br>
 
 <code>SOFTWARE DEVELOPMENT</code>
@@ -222,7 +229,7 @@ I want to understand <b>why</b> it works.
 ✦ ────────── ◈ ────────── ✦
 
 <br><br>
-
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     // PROJECTS //                          -->
@@ -234,6 +241,8 @@ I want to understand <b>why</b> it works.
 
 <img src="./mrrobot.gif.jpeg" width="600">
 
+<div align="center">
+  
 <br><br>
 
 <h3>PROJECT DATABASE</h3>
@@ -257,7 +266,7 @@ I want to understand <b>why</b> it works.
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
 
 <br><br>
-
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       // GAMING //                          -->
@@ -265,6 +274,8 @@ I want to understand <b>why</b> it works.
 
 <h2>♟ GAMING // 🎮</h2>
 
+<div align="right">
+  
 <br>
 
 <b>♟ CHESS</b>
@@ -275,7 +286,11 @@ Strategy • Patience • Calculation
 
 <br><br>
 
-<img src="./character3.jpg.gif" width="300">
+</div>
+
+<img src="./character3.jpg.gif" width="700">
+
+<div align="left">
 
 <br><br>
 
@@ -285,6 +300,8 @@ Strategy • Patience • Calculation
 
 Focus • Reaction • Teamwork
 
+<div align="right">
+  
 <br><br>
 
 <code>GAME MODE :: ONLINE</code>
@@ -295,11 +312,13 @@ Focus • Reaction • Teamwork
 
 <br><br>
 
+</div>
+<div align="center">
 ✦ ─────────────── ✦
 
 <br><br>
-
-
+</div>
+</div>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    // GITHUB STATS //                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -316,12 +335,15 @@ Focus • Reaction • Teamwork
 src="https://github-readme-streak-stats.herokuapp.com/?user=Nenosb33&theme=dark&background=0D0D0D&border=0D0D0D&ring=FF2B2B&fire=FF2B2B&currStreakLabel=FF2B2B"
 height="180">
 
+<div align="center">
+
 <br><br><br><br>
 
 ✦ ✧ ✦ ✧ ✦
 
 <br><br>
 
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       // ACTIVITY //                        -->
@@ -335,11 +357,16 @@ height="180">
 src="https://github-readme-activity-graph.vercel.app/graph?username=Nenosb33&bg_color=0D0D0D&color=B3B3B3&line=FF2B2B&point=FFFFFF&area=true&hide_border=true"
 width="95%">
 
+<div align="center">
+
+
 <br><br>
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
 
 <br><br>
+
+</div>
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -350,7 +377,9 @@ width="95%">
 
 <br>
 
-<img src="./decoration1 (2).jpeg" width="600">
+<img src="./decoration1 (2).jpeg" width="700">
+
+<div align="center">
 
 <br><br>
 
@@ -373,7 +402,7 @@ width="95%">
 ✦ ────────── ◈ ────────── ✦
 
 <br><br>
-
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       // CONNECT //                         -->
@@ -387,7 +416,8 @@ width="95%">
 <!--                       // CONNECT //                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2>✦ CONNECT ✦</h2>
+<div align="center">
+
 
 <br>
 
@@ -420,6 +450,8 @@ width="95%">
 ✦･ﾟﾟ･:｡..｡:*ﾟ::✼✿
 
 <br><br>
+
+</div>
 
 <pre>
 CONNECTION TERMINATED_
