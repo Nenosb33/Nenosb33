@@ -1,6 +1,5 @@
-<h3>✦ NENOSB33 // PROFILE✦</h3>
+<h3>✦✦ NENOSB33 // PROFILE✦✦</h3>
 
-<h4>✦✦ RTJ IS✦✦</h4>
 
 </div>
 
