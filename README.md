@@ -1,42 +1,43 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         WHO AM I(o゜▽゜)o☆                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->(o゜▽゜)o☆
-<!--                     // IDENTITY //                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<br>
-
 <h2>╔═══ WHO AM I ═══╗</h2>
 
+
+<h2>✦ NENOSB33 // PROFILE ✦</h2>
+
 <br>
 
-<table>
-<tr>
+<img align="left" src="222.png" width="300">
 
-<td width="58%" valign="middle">
+<br><br>
 
-<h3>✦ NENOSB33 // PROFILE</h3>
+
+
 
 <code>ACCESSING USER PROFILE...</code>
 
 <br><br>
 
-<b>Computer Information Systems Student</b>
+<h3>Computer Information Systems Student</h3>
 
-<br><br>
+<br>
 
-I'm fascinated by the way technology works —
-from networks and systems to cybersecurity,
+I'm fascinated by the way technology works —<br>
+from networks and systems to cybersecurity,<br>
 data, programming and digital design.
 
 <br><br>
 
-✦ <b>CYBERSECURITY</b><br>
-✦ <b>DATA ANALYSIS</b><br>
-✦ <b>SYSTEMS & NETWORKS</b><br>
-✦ <b>PROGRAMMING</b><br>
+✦ <b>CYBERSECURITY</b>
+&nbsp;&nbsp; ✦
+<b>DATA ANALYSIS</b>
+
+<br><br>
+
+✦ <b>SYSTEMS & NETWORKS</b>
+&nbsp;&nbsp; ✦
+<b>PROGRAMMING</b>
+
+<br><br>
+
 ✦ <b>UI / WEB DESIGN</b>
 
 <br><br>
@@ -45,27 +46,11 @@ data, programming and digital design.
 &nbsp;&nbsp; ✦ &nbsp;&nbsp;
 <code>ACCESS :: GRANTED</code>
 
-</td>
-
-<td width="42%" align="center">
-
-<img src="222.png" width="300">
 <br><br>
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-✦ ────────── ◈ ────────── ✦
-</p>
-
-<br>
+<br><br>
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -76,9 +61,9 @@ data, programming and digital design.
 
 <br>
 
-<img src="888.png" width="320">
+<img align="right" src="888.png" width="300">
 
-<br><br>
+<h3>✦ SYSTEM MINDSET</h3>
 
 <code>LEARN</code>
 &nbsp; ✦ &nbsp;
@@ -96,12 +81,10 @@ data, programming and digital design.
 
 <br><br>
 
-<blockquote>
 Understanding technology is not enough.<br>
 I want to understand <b>why</b> it works.
-</blockquote>
 
-<br>
+<br><br><br><br><br>
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
 
@@ -115,6 +98,10 @@ I want to understand <b>why</b> it works.
 <h2>◈ TECH STACK ◈</h2>
 
 <br>
+
+<img src="./1045538869772513140.gif" width="420">
+
+<br><br>
 
 <h3>PROGRAMMING</h3>
 
@@ -134,17 +121,13 @@ I want to understand <b>why</b> it works.
 
 <br><br>
 
-<img src="./1045538869772513140.gif" width="300">
-
-<br><br>
-
 <code>[ STACK INITIALIZED ]</code>
 
 <br><br>
 
-<p align="center">
 ✦ ──────── ◈ ──────── ✦
-</p>
+
+<br><br>
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -155,105 +138,39 @@ I want to understand <b>why</b> it works.
 
 <br>
 
-<table>
-<tr>
+🔐 <b>CYBERSECURITY</b>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🕵️ <b>ETHICAL HACKING</b>
 
-<td align="center">
+<br><br>
 
-🔐<br>
-<b>CYBERSECURITY</b>
+🌐 <b>NETWORKS</b>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+💻 <b>PROGRAMMING</b>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🤖 <b>AI</b>
 
-</td>
+<br><br>
 
-<td align="center">
+📊 <b>DATA</b>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+📡 <b>IoT</b>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+☁️ <b>CLOUD</b>
 
-🕵️<br>
-<b>ETHICAL HACKING</b>
+<br><br>
 
-</td>
+🎨 <b>UI / WEB</b>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🎯 <b>CTF</b>
 
-<td align="center">
+<br><br>
 
-🌐<br>
-<b>NETWORKS</b>
+♟️ <b>CHESS</b>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🎮 <b>CALL OF DUTY</b>
 
-</td>
-
-<td align="center">
-
-🤖<br>
-<b>AI</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-💻<br>
-<b>PROGRAMMING</b>
-
-</td>
-
-<td align="center">
-
-📊<br>
-<b>DATA</b>
-
-</td>
-
-<td align="center">
-
-📡<br>
-<b>IoT</b>
-
-</td>
-
-<td align="center">
-
-☁️<br>
-<b>CLOUD</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🎨<br>
-<b>UI / WEB</b>
-
-</td>
-
-<td align="center">
-
-🎯<br>
-<b>CTF</b>
-
-</td>
-
-<td align="center">
-
-♟️<br>
-<b>CHESS</b>
-
-</td>
-
-<td align="center">
-
-🎮<br>
-<b>CALL OF DUTY</b>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<br><br>
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
 
@@ -268,9 +185,9 @@ I want to understand <b>why</b> it works.
 
 <br>
 
-<img src="./jessica jones icon.jpeg" width="300">
+<img align="left" src="./jessica jones icon.jpeg" width="300">
 
-<br><br>
+<h3>✦ LEARNING PROTOCOL</h3>
 
 <code>CYBERSECURITY</code>
 &nbsp; ◈ &nbsp;
@@ -294,19 +211,17 @@ I want to understand <b>why</b> it works.
 
 <br><br>
 
-<pre>
-[ LEARNING PROTOCOL ]
+<code>████████████████████░░░░░░░░░░</code>
 
-████████████████████░░░░░░░░░░
+<br><br>
 
-STATUS :: IN PROGRESS_
-</pre>
+<b>STATUS :: IN PROGRESS_</b>
 
-<br>
+<br><br><br><br><br>
 
-<p align="center">
 ✦ ────────── ◈ ────────── ✦
-</p>
+
+<br><br>
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -317,7 +232,7 @@ STATUS :: IN PROGRESS_
 
 <br>
 
-<img src="./mrrobot.gif.jpeg" width="320">
+<img src="./mrrobot.gif.jpeg" width="600">
 
 <br><br>
 
@@ -352,15 +267,15 @@ STATUS :: IN PROGRESS_
 
 <br>
 
-<img src="./character3.jpg.gif" width="300">
-
-<br><br>
-
 <b>♟ CHESS</b>
 
 <br>
 
 Strategy • Patience • Calculation
+
+<br><br>
+
+<img src="./character3.jpg.gif" width="300">
 
 <br><br>
 
@@ -382,20 +297,26 @@ Focus • Reaction • Teamwork
 
 ✦ ─────────────── ✦
 
+<br><br>
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    // GITHUB STATS //                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2>◈ GITHUB STATS ◈</h2>
-<img src="111.png" width="300">
 
+<br>
+
+<img align="left" src="111.png" width="300">
+
+<br>
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Nenosb33&theme=dark&background=0D0D0D&border=0D0D0D&ring=FF2B2B&fire=FF2B2B&currStreakLabel=FF2B2B"
 height="180">
 
-<br><br>
+<br><br><br><br>
 
 ✦ ✧ ✦ ✧ ✦
 
@@ -429,7 +350,7 @@ width="95%">
 
 <br>
 
-<img src="./decoration1 (2).jpeg" width="300">
+<img src="./decoration1 (2).jpeg" width="600">
 
 <br><br>
 
@@ -453,6 +374,14 @@ width="95%">
 
 <br><br>
 
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       // CONNECT //                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2>✦✦✦ CONNECT ✦✦✦</h2>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       // CONNECT //                         -->
@@ -488,7 +417,7 @@ width="95%">
 
 <br><br>
 
-✦･ﾟﾟ･*:｡..｡:*ﾟ:*:✼✿
+✦･ﾟﾟ･:｡..｡:*ﾟ::✼✿
 
 <br><br>
 
