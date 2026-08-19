@@ -268,7 +268,7 @@ I want to understand <b>why</b> it works.
 
 <br>
 
-<img src="./1077838123325940889.jpeg" width="300">
+<img src="./jessica jones icon.jpeg" width="300">
 
 <br><br>
 
