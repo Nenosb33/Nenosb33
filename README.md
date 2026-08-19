@@ -49,7 +49,7 @@ data, programming and digital design.
 
 <td width="42%" align="center">
 
-<img src="./609252655881082461.jpeg" width="300">
+<img src="222.png" width="300">
 <br><br>
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
@@ -388,20 +388,8 @@ Focus • Reaction • Teamwork
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2>◈ GITHUB STATS ◈</h2>
+<img src="111.png" width="300">
 
-<br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Nenosb33&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FF2B2B&icon_color=FF2B2B&text_color=B3B3B3"
-height="180">
-
-&nbsp;&nbsp;
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenosb33&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FF2B2B&text_color=B3B3B3"
-height="180">
-
-<br><br>
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Nenosb33&theme=dark&background=0D0D0D&border=0D0D0D&ring=FF2B2B&fire=FF2B2B&currStreakLabel=FF2B2B"
