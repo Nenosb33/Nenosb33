@@ -76,7 +76,7 @@ data, programming and digital design.
 
 <br>
 
-<img src="./🎆.jpeg" width="320">
+<img src="888.png" width="320">
 
 <br><br>
 
