@@ -49,7 +49,7 @@ data, programming and digital design.
 
 <td width="42%" align="center">
 
-<img src="./decoration1 (4).gif" width="300">
+<img src="./609252655881082461.jpeg" width="300">
 <br><br>
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧
@@ -317,7 +317,7 @@ STATUS :: IN PROGRESS_
 
 <br>
 
-<img src="./character3.jpg.gif" width="320">
+<img src="./mrrobot.gif.jpeg" width="320">
 
 <br><br>
 
@@ -352,7 +352,7 @@ STATUS :: IN PROGRESS_
 
 <br>
 
-<img src="./by Anas Abdin.gif" width="300">
+<img src="./character3.jpg.gif" width="300">
 
 <br><br>
 
